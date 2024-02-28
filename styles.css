@@ -1,0 +1,59 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+img{width: 560px;
+height: 450px; 
+display: block; 
+margin-left: 25px;
+margin-top: 100px ;
+position: fixed
+
+;
+
+
+}
+div{margin-left:5px;
+font: inline-block;
+line-height:25px; display: block;
+padding-right: 10px; margin-top: 300px;
+
+}
+hearder{font-weight: 300px;
+font-size: 15px;
+font-weight: 200px;
+padding-left: 500 px;
+padding: 40px;
+;}
+  h1{margin-left: 700px; 
+
+width:230px; height: 120px;
+line-height: 35px;}
+
+
+p{margin-left: 700px;
+}
+
+.bot1{margin-left:10px; 
+    background: rgb(81, 243, 81);
+    background-color: rgb(62, 187, 62);
+    margin-top: 20px;
+color: aliceblue;
+font-size: 12px;
+border-radius:100px ;
+;width: 90px;
+height: 25px;
+
+
+
+}
+
+
+
+.bot2{margin-left: 700px; 
+background: rgb(81, 243, 81);
+background-color: rgb(62, 187, 62);
+margin-top: 20px;
+border-radius: 20px;
+width: 90px;
+height: 25px;}
+.links{line-height: 15px;}
