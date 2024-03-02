@@ -42,7 +42,7 @@ font-size: 12px;
 border-radius:100px ;
 ;width: 90px;
 height: 25px;
-
+cursor: pointer;
 
 
 }
@@ -55,5 +55,43 @@ background-color: rgb(62, 187, 62);
 margin-top: 20px;
 border-radius: 20px;
 width: 90px;
-height: 25px;}
-.links{line-height: 15px;}
+height: 25px; color: aliceblue;
+cursor:pointer;}
+.links{line-height: 15px;
+}
+
+@media (max-width :1022px) {
+img{width: 320px;
+height: 320px; 
+padding-bottom: 100px;
+margin-top: 20px;
+
+}
+div{float: inline-end;
+line-height: 25px; 
+margin-left: 20px;
+position: static;
+padding-right: 62px;
+margin-top: 260px;
+
+}
+hearder{width: 50px;
+height: 50px;
+height: 1px;
+} 
+
+h1{padding-bottom: 30px;}
+  
+}
+
+
+
+
+  
+
+
+
+
+
+
+
